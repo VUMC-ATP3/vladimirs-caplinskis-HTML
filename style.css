@@ -1,0 +1,23 @@
+.note{
+    color:rgb(3, 3, 253);
+}
+
+.note1{
+    color:white;
+
+}
+.full{
+    
+    display: grid;
+    grid-template-columns: 40% 60%;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+.left{
+    background-color: rgb(109, 109, 247);
+    
+}
+.right{
+    background-color: rgb(221, 237, 249);
+}
